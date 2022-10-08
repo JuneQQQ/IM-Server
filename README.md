@@ -1,5 +1,5 @@
 1. 架构图
-![image-20221006201035134](http://markdown-pic-june.oss-cn-beijing.aliyuncs.com/uPic/image-20221006201035134.png)
+<img src="http://markdown-pic-june.oss-cn-beijing.aliyuncs.com/uPic/image-20221006201035134.png">
 
 2. 功能介绍
 - 广播消息
